@@ -1,0 +1,2 @@
+c:\users\jyri\documents\visual studio 2013\Projects\Gitintestausta\Gitintestausta\bin\Debug\Gitintestausta.exe.config
+C:\Users\Jyri\Source\Repos\testi\Ohjia\bin\Debug\Gitintestausta.exe.config
