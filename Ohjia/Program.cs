@@ -19,9 +19,11 @@ namespace Gitintestausta
             Application.Run(new Form1());
         }
 
-        private void TestiMetodi()
+        private void TestiMetodi(int arvo)
         { 
-            // Testiiiii
+            // Testiiiii_koko
+            int i = 3;
+            ++i;
         }
     }
 }
